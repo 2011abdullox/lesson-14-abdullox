@@ -1,0 +1,32 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    background-color: white;
+    font-weight: bold;
+}
+.section {
+    text-align: center;
+    font-size: 40px;
+}
+
+.box {
+    width: 100px;
+    height: 110px;
+    background-color: red;
+    margin: auto;
+}
+
+.right {
+    width: 100px;
+    height: 110px;
+    background-color: red;
+    display: flex;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    margin-top: 20px;
+}
